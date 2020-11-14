@@ -2,7 +2,8 @@
 
 Data taken from LA County Government website: https://corona-virus.la/testing-center-directory
 
-# Motivations:
+
+# Motivations
 
 The main motivation behind this project was to make a one-stop-shop for locating coronavirus test centers. Many of my peers need proof of negative tests in order to board planes to fly back to China, and I wanted to make that process a little bit easier
 
